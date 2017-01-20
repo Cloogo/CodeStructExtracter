@@ -1,8 +1,0 @@
-A tool designed for reading others' c codes,which works on Linux OS.
-Simply extract global declarations/variables and methods from given c file(s) 
-and give a rude summary.
-
-When developping the tool,i try to design some reusable codes 
-and some testcases to test them.
-
-All codes with fewer comments,however,the codes is readable.
